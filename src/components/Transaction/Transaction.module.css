@@ -1,0 +1,29 @@
+.transaction__history {
+  margin: 0 auto;
+  width: 600px;
+  min-height: 300px;
+  border: 2px solid #a5a4a4;
+  background-color: #fff;
+  text-align: center;
+  color: #747474;
+}
+
+.thead_tr {
+  background-color: #0b6674;
+  color: #ffffff;
+  text-transform: uppercase;
+  height: 80px;
+}
+
+.type_td {
+  text-align: left;
+  transform: translateX(30%);
+}
+
+.tbody_tr:nth-child(even) {
+  background-color: #ecf1f4;
+}
+
+.tbody tr {
+  height: 50px;
+}

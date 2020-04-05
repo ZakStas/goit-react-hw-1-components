@@ -1,0 +1,22 @@
+.statistics {
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.statList {
+  text-align: center;
+}
+
+.item {
+  display: inline-block;
+  padding: 20px;
+  font-size: 18px;
+}
+
+.label,
+.percentage {
+  display: block;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+}
